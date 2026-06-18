@@ -1,1 +1,1 @@
-# MDouro-2026-imagems2d
+# MDouro-2026-imagem2d
