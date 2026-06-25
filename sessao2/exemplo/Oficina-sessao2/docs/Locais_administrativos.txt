@@ -1,0 +1,225 @@
+﻿Locais administrativos
+	Bragança
+		Alfândega da Fé
+			Vilarelhos
+		Carrazeda de Ansiães
+			Beira Grande
+			Carrazeda de Ansiães
+			Castanheiro do Norte
+			Lavandeira
+			Linhares
+			Parambos
+			Pereiros
+			Pinhal do Norte
+			Pombal
+			Ribalonga
+			Seixo de Ansiães
+			Vilarinho da Castanheira
+		Freixo de Espada à Cinta	
+			Freixo de Espada à Cinta
+			Ligares
+			Mazouco
+			Poiares
+		Mirandela	
+			Avantos
+			Carvalhais
+			Frechas
+			Romeu
+		Torre de Moncorvo
+			Açoreira
+			Adeganha
+			Cabeça Boa
+			Horta
+			Lousa
+			Peredo dos Castelhanos
+			Torre de Moncorvo
+			Urros
+		Vila Flor
+			Assares
+			Freixiel
+			Lodões
+			Roios
+			Sampaio
+			Santa Comba de Vilariça
+			Seixo de Manhoses
+			Vale Frechoso
+			Vilarinho das Azenhas
+			Vilas Boas
+	Guarda	
+		Figueira de Castelo Rodrigo
+			Escalhão
+		Mêda	
+			Fonte Longa
+			Longroiva
+			Mêda
+			Poça do Canto
+		Vila Nova de Foz Coa
+			Almendra
+			Castelo Melhor
+			Cedovim
+			Chãs
+			Custoias
+			Freixo de Numão
+			Horta
+			Mós
+			Murça
+			Muxagata
+			Numão
+			Santa Comba
+			Santo Amaro
+			Sebadelhe
+			Seixas
+			Touça
+			Vila Nova de Foz Coa
+	Porto	
+		Porto
+			S. Nicolau
+		Vila Nova de Gaia
+			Mafamude
+			Santa Marinha
+	Vila Real	
+		Alijó
+			Alijó
+			Amieiro
+			Carlão
+			Casal de Loivos
+			Castedo
+			Cotas
+			Favaios
+			Pegarinhos
+			Pinhão
+			Sanfins do Douro
+			Santa Eugénia
+			São Mamede de Ribatua
+			Vale de Mendiz
+				Quinta do Noval
+			Vilar de Maçada	
+			Vilarinho de Cotas
+		Mesão Frio	
+			Barqueiros
+			Cidadelhe
+			Oliveira
+			Santa Cristina
+			Vila Jusã
+			Vila Marim
+		Murça	
+			Candedo
+			Murça
+			Noura
+		Peso da Régua
+			Canelas
+			Covelinhas
+			Fontelas
+			Galafura
+			Godim
+				Quinta do Paço
+			Loureiro	
+			Moura Morta
+			Peso da Régua
+			Poiares
+			Sedielos
+			Vilarinho dos Freires
+			Vinhós
+		Sabrosa	
+			Celeirós
+			Covas do Douro
+				Chanceleiros
+				Donelo
+				Ferrão
+				Pesinho
+			Gouvães	
+			Gouvães do Douro
+			Gouvinhas
+			Paços
+			Paradela de Guiães
+			Provesende
+			Sabrosa
+			São Cristóvão do Douro
+			São Martinho de Anta
+			Souto Maior
+			Vilarinho de S. Romão
+		Santa Marta de Penaguião
+			Alvações do Corgo
+			Cumieira
+			Fontes
+			Fornelos
+			Louredo
+			Medrões
+			S. João Batista de Lobrigos
+			S. Miguel de Lobrigos
+			Sanhoane
+			Sever
+		Vila Real
+			Abaças
+				Quinta da Portela
+				Vilarinho do Tanha
+				Vila de Tanha
+				Selado
+				Quinta da Prelada
+			Ermida
+			Folhadela
+			Guiães
+			Mateus
+			Mondrões
+				Bisalhães
+			Nogueira	
+			Nossa Senhora da Conceição
+			Parada de Cunhos
+			S. Dinis
+			S. Pedro
+	Viseu	
+		Armamar
+			Aldeias
+			Armamar
+			Folgosa
+			Fontelo
+			Santo Adrião
+			Vacalar
+			Vila Seca
+		Lamego	
+			Cambres
+				Quinta do Paço de Monsul
+			Ferreiros de Avões	
+			Figueira
+			Parada do Bispo
+			Penajoia
+			Penude
+			Samodães
+			Sande
+			Santa Maria de Almacave
+			Sé
+			Valdigem
+			Várzea de Abrunhais
+		Peso da Régua	
+			Peso da Régua
+		Resende	
+			Barrô
+		São João da Pesqueira
+			Castanheiro do Sul
+			Ervedosa do Douro
+				Casais do Douro
+					Quinta de Santa Bárbara
+				Sarzedinho	
+				Espinhosa	
+			Nagoselo do Douro
+			Paredes da Beira
+			São João da Pesqueira
+			Soutelo do Douro
+			Trevões
+			Vale de Figueira
+			Valongo dos Azeites
+			Várzea de Trevões
+			Vilarouco
+		Tabuaço	
+			Adorigo
+			Barcos
+			Desejosa
+			Granjinha
+			Pereiro
+			Santa Leocádia
+			Sendim
+			Tabuaço
+			Távora
+			Valença do Douro
+				Quinta do Bom Retiro Pequeno
+

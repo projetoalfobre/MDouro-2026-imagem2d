@@ -1,0 +1,75 @@
+Fotografia tipologia
+	Indeterminado
+	Negativo
+		Negativo de gelatina e prata em vidro
+		Negativo de gelatina e prata em acetato de celulose
+		Negativo de gelatina e prata em poliéster duplicado
+		Negativo cromogéneo em acetato de celulose
+		Negativo cromogéneo em poliéster
+		Negativo de gelatina e prata em poliéster
+		Negativo de gelatina e prata em nitrato de celulose
+		Negativo de colódio e prata em vidro
+	Diapositivo
+		Diapositivo de gelatina e prata em nitrato de celulose
+		Diapositivo de gelatina e prata em acetato de celulose
+		Diapositivo cromogéneo em acetato de celulose
+		Diapositivo de gelatina e prata em poliéster
+		Diapositivo cromogéneo em poliéster
+		Diapositivo de gelatina e prata em vidro
+		Diapositivo de colódio e prata em vidro
+		Diapositivo de rede a cor em vidro
+		Diapositivo de rede a cor em película
+	Radiografia
+		Radiografia em nitrato de celulose
+		Radiografia em acetato de celulose
+		Radiografia em poliéster
+		Radiografia em imagem digital
+	Fototelegrama
+	Fotolito
+	Interpositivo de gelatina e prata em poliéster
+	Interpositivo de gelatina e prata em acetato de celulose
+	Calótipo
+	Dagarreótipo
+	Ambrótipo
+	Ferrótipo
+	Prova
+		Prova de papel salgado
+		Prova em cianotipia
+		Prova em platinotipia
+		Prova em albumina
+		Prova em carvão
+		Prova em goma dicromatada
+		Prova em bromóleo
+		Prova em tinta de óleo
+		Prova por branqueamento de corantes
+		Prova por transferência de corantes
+	Prova em papel
+		Prova em papel direto de colódio ou gelatina
+		Prova cromogénea em papel direto de colódio ou gelatina
+		Prova em papel direto de colódio mate (com ou sem viragem)
+		Prova cromogénea em papel direto de colódio mate (com ou sem viragem)
+		Prova em papel de revelação baritado
+		Prova em papel de revelação plastificado
+		Prova em papel de revelação baritado ou sem barita com viragem (sépia, selénio)
+		Prova em papel de revelação plastificado com viragem (sépia, selénio)
+	Prova cromogéna
+		Prova cromogéna baritada
+		Prova cromogéna plastificada
+	Prova instantânea
+		Prova instantânea monocromática, processo de difusão
+		Prova instantânea a cor, processo de difusão
+	Prova fotomecânica
+		Prova fotomecânica, rede de ponto
+		Prova fotomecânica, gravura
+		Prova fotomecânica, fototipia
+		Prova fotomecânica, fotogliptia
+	Prova digital
+		Prova digital a preto e branco, jato de tinta
+		Prova digital a preto e branco, laser
+		Prova digital a preto e branco, sublimação
+		Prova digital a cor, jato de tinta
+		Prova digital a cor, laser
+		Prova digital a cor, sublimação
+	Imagem digital
+		Imagem digital - JPEG
+		Imagem digital - TIFF
