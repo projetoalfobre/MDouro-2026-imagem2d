@@ -1,0 +1,46 @@
+--- START PREFIXO --- 
+<html>
+<head>
+<meta charset="utf-8">
+<title>Export</title>
+</head>
+<body>
+
+<table border="1">
+<tr>
+  <th>Miniatura</th>
+  <th>Caminho</th>
+  <th>Tamanho</th>
+  <th>Largura</th>
+  <th>Altura</th>
+  <th>Data</th>
+  <th>Diferença</th>
+</tr>
+--- END PREFIXO ---
+
+--- START ROW TEMPLATE ---
+<tr>
+<td>
+  <a href="{{cells["_ - path"].value}}" target="_blank">
+    <img src="{{cells["_ - path"].value}}" style="width:200px;height:auto;" alt="">
+  </a>
+</td>
+  <td>{{cells["_ - path"].value}}</td>
+  <td style="text-align:center">{{cells["_ - size"].value}}</td>
+  <td style="text-align:center">{{cells["_ - width"].value}}</td>
+  <td style="text-align:center">{{cells["_ - height"].value}}</td>
+  <td style="text-align:center">{{cells["_ - modified_date"].value}}</td>
+  <td style="text-align:center">{{cells["_ - difference"].value}}</td>
+</tr>
+--- END ROW TEMPLATE ---
+
+--- START ROW SEPARATOR ---
+
+--- END ROW SEPARATOR ---
+
+--- START SUFFIX ---
+</table>
+
+</body>
+</html>
+--- END SUFFIX ---
